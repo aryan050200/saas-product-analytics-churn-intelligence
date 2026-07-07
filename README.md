@@ -73,23 +73,26 @@ Power BI Dashboard
 
 ### Executive Overview
 
-![Executive Dashboard](Power%20BI/dashboard_screenshots/executive.png)
+![Executive Overview](Executive%20Overview.jpg)
 
-### Churn Analysis
+### Churn Deep Dive
 
-![Churn Dashboard](Power%20BI/dashboard_screenshots/churn.png)
+![Churn Deep Dive](Churn%20Deep%20Dive.jpg)
 
-### Revenue Analytics
 
-![Revenue Dashboard](Power%20BI/dashboard_screenshots/revenue.png)
+### Revenue Intelligence
 
-### Product Usage Analytics
+![Revenue Intelligence](Revenue%20Intelligence.jpg)
 
-![Feature Dashboard](Power%20BI/dashboard_screenshots/features.png)
 
-### Support Analytics
+### Feature & Product Usage
 
-![Support Dashboard](Power%20BI/dashboard_screenshots/support.png)
+![Feature & Product Usage](Feature%20%26%20Product%20Usage.jpg)
+
+
+### Support Operations
+
+![Support Operations](Support%20Operations.jpg)
 
 ---
 
